@@ -4,7 +4,7 @@ ML Powered App to assist farmers in rose plant disease detection and solve.
 
 ## Product Walkthrough
 
-https://user-images.githubusercontent.com/60544576/202490585-ff3cd152-b710-4048-be21-d90898a637f7.mp4
+
 
 
 
