@@ -1,6 +1,6 @@
-# Save Mango - Mango🥭 Plant🌱 Disease🐛 Detector 🔎
+# RoseVision - Rose🌹 Plant🌱 Disease🐛 Detection 🔎 
 
-ML Powered App to assist farmers in plant disease detection and solve.
+ML Powered App to assist farmers in rose plant disease detection and solve.
 
 ## Product Walkthrough
 
@@ -8,13 +8,13 @@ https://user-images.githubusercontent.com/60544576/202490585-ff3cd152-b710-4048-
 
 
 
-## Download Product Apk **[here](https://drive.google.com/file/d/1TgdR5pcOrQ_eqAXw5Qs_YpT7ANQ5OUAR/view?usp=sharing)**
+## Download Product Apk **[here](https://drive.google.com/file/d/1Jb1xzzPTUjAMzHHriuQq8MnOSZ4JP7Ol/view?usp=sharing)**
 
 ## Solutions
 
 #### System to detect the desease and warn, also give solutions.
 
-Disease Detection using Machine Learning Model enabled through Android [app](https://drive.google.com/file/d/1TgdR5pcOrQ_eqAXw5Qs_YpT7ANQ5OUAR/view?usp=sharing).
+Disease Detection using Machine Learning Model enabled through Android [app](https://drive.google.com/file/d/1Jb1xzzPTUjAMzHHriuQq8MnOSZ4JP7Ol/view?usp=sharing).
 
 #### Solution to overcome the problem once it arises.
 
@@ -37,7 +37,7 @@ The input image dataset is normalized and augmented and is passed through a LCNN
 
 ## App
 
-#### Download Product Apk **[here](https://drive.google.com/file/d/1TgdR5pcOrQ_eqAXw5Qs_YpT7ANQ5OUAR/view?usp=sharing)**
+#### Download Product Apk **[here](https://drive.google.com/file/d/1Jb1xzzPTUjAMzHHriuQq8MnOSZ4JP7Ol/view?usp=sharing)**
 
 ### Flutter version
 ```
