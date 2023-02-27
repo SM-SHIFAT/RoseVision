@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/60544576/221583711-d5695168-08b3-440d-
 
 ## Solutions
 
-#### System to detect the desease and warn, also give solutions.
+#### System to detect the disease and warn, also give solutions.
 
 Disease Detection using Machine Learning Model enabled through Android [app](https://drive.google.com/file/d/1Jb1xzzPTUjAMzHHriuQq8MnOSZ4JP7Ol/view?usp=sharing).
 
